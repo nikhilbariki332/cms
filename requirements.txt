@@ -16,9 +16,6 @@ isort==5.5.1
 itsdangerous==1.1.0
 Jinja2==2.11.2
 lazy-object-proxy==1.4.3
-MarkupSafe==1.1.1
-mccabe==0.6.1
-mysqlclient @ file:///C:/Users/nikhil%20bariki/Downloads/mysqlclient-1.4.6-cp38-cp38-win32.whl
 pyaes==1.6.1
 pyasn1==0.4.8
 pylint==2.6.0
